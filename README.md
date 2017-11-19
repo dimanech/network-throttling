@@ -41,3 +41,5 @@ For more info see docs for [tc](https://wiki.linuxfoundation.org/networking/nete
 
 If you are not on linux-kernel take a look on [comcast](https://github.com/tylertreat/comcast)
 
+See [case study](https://www.akamai.com/kr/ko/multimedia/documents/technical-publication/http2-performance-in-cellular-networks.pdf) how network shape affect different protocols performance by Akamai.
+
