@@ -1,6 +1,6 @@
 # Net Emulation (linux-kernel only)
 
-This is simple wrapper over `tc` utility to test different network conditions in more realistic way than simple bandwidth trottling. Not limiting to Chrome browser and with more complex traffic shapes.
+This is simple wrapper around `tc` utility to test different network conditions in more realistic way than simple bandwidth trottling. Not limiting to Chrome browser and with more complex traffic shapes.
 
 It simulates non-constant latency, bandwidth restrictions, and dropped/reordered/corrupted packets. 
 Potentially you could add any traffic shapes by adding your preset to the script, by default it contains 7 presets:
